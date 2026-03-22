@@ -95,6 +95,3 @@ DeepSeek V4 的架构特性非常适合该协议：
 
 ## 许可证
 
-MIT
-``
-Update README with full description.
